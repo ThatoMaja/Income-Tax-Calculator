@@ -31,8 +31,8 @@ A Python-based GUI application that calculates an individual's **monthly or year
 ## How to Run
 
 1. Make sure Python 3 is installed.
-2. Save the script as `tax_calculator.py`
+2. Save the script as `income_tax_calculator.py`
 3. Run it:
 
 ```bash
-python tax_calculator.py
+python income_tax_calculator.py
